@@ -81,10 +81,15 @@ Give yourself a grade for each question. Explain why you gave yourself that grad
 
 ### 1. API Endpoints & MySQL
 
-- Grade:
-- Explanation:
+- Grade: 3
+- Explanation: I understand why this worked but I did struggle a lot in answering
+  it as it was. I was using most of my notes from class in order to fully understand
+  and look back on when I got confused (which was often).
 
 ### 2. Frontend
 
-- Grade:
-- Explanation:
+- Grade: 2
+- Explanation: The POST methon on the front end doesn't quite work the way I was
+  hoping it would and the delete button doesn't work at all! To be fair, I'm not
+  very good at React and still get very confused on much of the concepts but I
+  do feel as though I'm improving because I didn't think I'd get as far as I did.
