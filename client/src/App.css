@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap");
+
+.App {
+  background-color: lightblue;
+}
+
+.NewStudentForm {
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+}
+
+input {
+  border-radius: 15px;
+  margin-left: 50%;
+}
+
+button {
+  border-radius: 15px;
+  background-color: turquoise;
+}
+
+h1,
+li,
+label,
+button {
+  font-family: "Hachi Maru Pop", cursive;
+  text-align: center;
+}
+
+li button {
+  text-align: right;
+}
